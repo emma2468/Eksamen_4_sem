@@ -296,7 +296,6 @@
 		width: calc(100% + 72px);
 		max-width: calc(100% + 72px);
 		margin-left: -36px;
-		left: auto;
 	}
 
 	/* Form */
